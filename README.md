@@ -33,12 +33,12 @@ To run this project locally, follow these steps:
   ```
 
 3. Install dependencies:
-   ```bash
+   ```js
     npm install
     ```
 
 4. Start the development server:
-   ```bash
+   ```js
     npm start
     ```
 
