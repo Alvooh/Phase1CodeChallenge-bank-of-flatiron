@@ -28,16 +28,19 @@ To run this project locally, follow these steps:
    git clone https://github.com/Alvooh/Phase2CodeChallenge-bank-of-flatiron.git
 
 2. Navigate to the project directory:
-  ```bash
+   ```bash
     cd Phase2CodeChallenge-bank-of-flatiron
+  ```
 
 3. Install dependencies:
     ```bash
     npm install
+    ```
 
 4. Start the development server:
   ```bash
     npm start
+    ```
 
 5. Open http://localhost:3000 in your web browser to view the app.
 
