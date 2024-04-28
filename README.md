@@ -29,15 +29,15 @@ To run this project locally, follow these steps:
 
 2. Navigate to the project directory:
   ```bash
-cd Phase2CodeChallenge-bank-of-flatiron
+    cd Phase2CodeChallenge-bank-of-flatiron
 
 3. Install dependencies:
     ```bash
-npm install
+    npm install
 
 4. Start the development server:
   ```bash
-npm start
+    npm start
 
 5. Open http://localhost:3000 in your web browser to view the app.
 
