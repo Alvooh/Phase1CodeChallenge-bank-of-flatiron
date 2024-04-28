@@ -6,11 +6,7 @@ import Header from './components/Header';
 import "./App.css"
 
 function App() {
-  const [transactions, setTransactions] = useState([
-    { id: 1, description: 'Groceries', amount: 50,category:"utilities", date: '2024-04-28' },
-    { id: 2, description: 'Gas', amount: 30, category:"utilities", date: '2024-04-27' },
-
-  ]);
+  const [transactions, setTransactions] = useState([]);
 
   const [searchTerm, setSearchTerm] = useState('');
 

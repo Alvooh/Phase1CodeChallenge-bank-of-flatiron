@@ -42,7 +42,7 @@ function TransactionForm({ addTransaction }) {
         <label htmlFor="amount">Amount:</label>
         <input type="number" id="amount" placeholder="Amount" value={amount} onChange={(e) => setAmount(e.target.value)} required />
       </div>
-      <button type="submit">Add Transaction</button>
+      <button id = "T-button"type="submit">Add Transaction</button>
     </form>
     </div>
   );
