@@ -7,11 +7,10 @@ Welcome to Bank of Flatiron! This is a simple banking application built with Rea
 You can access the live demo of the application [here](https://genuine-cat-554d7f.netlify.app/).
 
 ## Features
-
-- Sign in to your account
-- View your account balance
-- Deposit and withdraw funds
+- Add new transactions with date, description, category, and amount.
+- View a list of transactions.
 - View transaction history
+- Filter Transactions by description
 
 ## Technologies Used
 
@@ -28,21 +27,23 @@ To run this project locally, follow these steps:
    ```bash
    git clone https://github.com/Alvooh/Phase2CodeChallenge-bank-of-flatiron.git
 
-Navigate to the project directory:
-
+2. Navigate to the project directory:
+  ```bash
 cd Phase2CodeChallenge-bank-of-flatiron
-Install dependencies:
 
+3. Install dependencies:
+    ```bash
 npm install
 
-Start the development server:
-
+4. Start the development server:
+  ```bash
 npm start
 
-Open http://localhost:3000 in your web browser to view the app.
+5. Open http://localhost:3000 in your web browser to view the app.
 
-Contributing
+
+## Contributing
 Contributions are welcome! If you find any issues or would like to suggest new features, please open an issue or create a pull request.
 
-License
+## License
 This project is licensed under the MIT License.
