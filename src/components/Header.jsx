@@ -1,5 +1,5 @@
 import React from "react"
-import './all.css'
+
 
 function Header(){
     return <>

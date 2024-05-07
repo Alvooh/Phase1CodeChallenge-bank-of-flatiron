@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+
 }
 
 .App-logo {
@@ -39,6 +40,7 @@
 .head{
   text-align: center;
   background-color: rgb(93, 187, 121);
+  padding:18px;
 }
 h1{
   text-align: center;

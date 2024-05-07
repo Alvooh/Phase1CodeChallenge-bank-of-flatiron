@@ -1,5 +1,4 @@
 import React from 'react';
-import './all.css'
 
 function TransactionTable({ transactions }) {
   return (
